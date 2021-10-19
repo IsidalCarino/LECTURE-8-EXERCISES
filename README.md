@@ -62,7 +62,7 @@ int main()
 	break; }
 }
 ```
-#Fuel me up
+# Fuel me up
 ```
 #include <iostream>
 using namespace std;
@@ -93,7 +93,7 @@ int main()
         cout << "Please enter P or D ONLY!" << endl;
 }
 ```
-#Switching Temperature
+# Switching Temperature
 ```
 #include <iostream>
 using namespace std;
@@ -118,6 +118,6 @@ int main()
     }
 }
 ```
-#Switch Grade Calculator
+# Switch Grade Calculator
 ```
 ```
